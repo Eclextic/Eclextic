@@ -8,12 +8,12 @@
   <img src="img/Wave.gif" alt="animated" width="400" height="400" />
 </p>
 
-&emsp;&emsp;
+&emsp;
 
-### You have reached my profile! First of all **thank you** for checking me out!
-I hope you're having fun here 🤟
+### You have reached my profile!
+First of all **thank you** for checking me out! Nice having you here!
 
-&emsp;&emsp;
+&emsp;
 
 Quotes I live by:
 
