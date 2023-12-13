@@ -15,22 +15,22 @@ First of all **thank you** for checking me out! Nice having you here!
 
 &emsp;
 
-Quotes I live by:
+#### Quotes I live by:
 
 ---
 > It always seems impossible until it's done.\
-> ~ Nelson Mandela
+> \~ Nelson Mandela
 >
 >  ---
 > 
 > When you're good at something, you'll tell everyone.\
 > When you're great at something, they'll tell you.\
-> ~ Walter Payton
+> \~ Walter Payton
 > 
 > ---
 > 
 > If you're going through hell, keep going.\
-> ~ Winston Churchill
+> \~ Winston Churchill
 ---
 
 &emsp;&emsp;
