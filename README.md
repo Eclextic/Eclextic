@@ -11,7 +11,7 @@ First of all **thank you** for checking me out! Nice having you here!
 
 I'm a curious student starting my journey in the development enviroment!\
 A couple years ago I started game development (Unity) and am developing my first simple title: **No Dice Dots**. Inspired by Helltaker!\
-<sup>Currently it is on hold (as I'm not old enough to launch a paid game).<sup>
+Currently it is on hold (as I'm not old enough to launch a paid game).
 
 That's why I'm working on **Aurora**, a Linux/Unix theme/configuration manager designed to make it trivial to create new themes, add different environments, add other users, all without duplicating files/images. It achieves this by examining similar files and generating the diffs. It's backend being Git. (Not an OSS, yet!)
 
