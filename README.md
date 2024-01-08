@@ -17,7 +17,9 @@ That's why I'm working on **Aurora**, a Linux/Unix theme/configuration manager d
 
 Thank you for taking the time to read this!
 
-Nobody can truly be smart, as to be smart, means to be knowing the bounds of knowledge! Which is why, I will always stay foolish!
+&emsp;
+
+<i>Nobody can truly be smart, as to be smart, means to be knowing the bounds of knowledge! Which is why, I will always stay foolish!<i>
 
 &emsp;&emsp;&emsp;
 
