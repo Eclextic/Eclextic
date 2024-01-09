@@ -4,7 +4,7 @@
   </p>
 </h1>
 
-<img src="img/Wave.gif" align="right" alt="animated" width="410" height="330" />
+<img src="img/Wave.gif" align="right" alt="animated" width="400" height="320" />
 
 ### You have reached my profile!
 First of all **thank you** for checking me out! Nice having you here!
